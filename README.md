@@ -10,7 +10,7 @@ I rebuild slow, outdated Odessa business websites that lose customers.
 ### What I do
 1. **Free Audit**: I test your site speed, mobile UX, and broken buttons using Python
 2. **Free Fix**: I rebuild your homepage to load in <2s with clear Call-To-Action
-3. **You Decide**:  if you want it. Keep the audit if not
+3.  **You Decide**: $400 if you want it. Keep the audit if not
 
 ### Tech Stack
 **Python** for deep site audits. **PowerShell** for automation. **Next.js** for <2s sites. **Vercel** for free hosting.
