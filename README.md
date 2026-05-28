@@ -3,7 +3,10 @@
 
 Built by **Tamikka Sims** | Odessa, TX  
 Python + Next.js | Deployed on Vercel
-
+## Credentials
+- **Texas Licensed General Lines Insurance Agent** — Active 2026
+- **Freelance Developer** — Licensed, State of Texas
+- **Continuing Education** — Google & Microsoft Developer Programs (ongoing)
 ---
 
 ## What This Is
